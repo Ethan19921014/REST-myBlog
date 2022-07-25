@@ -1,2 +1,2 @@
 # REST-myBlog
-rest aoi blog
+rest api blog
